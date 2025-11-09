@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(40, 38, 38);
+    color: white;
+}
+
+#tit{
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: 700px;
+}
+
+.rdos{
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+}
+
+.R-List{
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+}
+
+#last{
+    background-color: orange;
+}
+
+.ctct{
+    text-align: center;
+}
+
+#mail{
+    background-color: orange;
+}
+
+#nt{
+    text-align: center;
+    background-color: rgb(190, 73, 73);
+}

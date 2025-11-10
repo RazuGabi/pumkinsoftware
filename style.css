@@ -11,7 +11,7 @@ img{
     display: block;
     width: 100px;
     height: 100px;
-    margin-left: 700px;
+    margin: 0 auto;
 }
 
 .rdos{
@@ -38,5 +38,38 @@ img{
 
 #nt{
     text-align: center;
+    background-color: rgb(190, 73, 73);
+}
+
+#rados{
+    background-color: #FA8E01;
+}
+
+#rados2{
+    background-color: #FA8E01;
+}
+
+#rlis{
+    background-color: #FA8E01;
+}
+
+#rlis2{
+    background-color: #FA8E01;
+}
+
+#anc{
+    background-color: rgb(138, 189, 75);
+    color: white;
+}
+
+#anc2{
+    background-color: rgb(138, 189, 75);
+}
+
+#rl{
+    background-color: rgb(190, 73, 73);
+}
+
+#rd{
     background-color: rgb(190, 73, 73);
 }
